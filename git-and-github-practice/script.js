@@ -1,2 +1,2 @@
 // JavaScript to be added Reboot academy is the best
-// Thank you
+// Thank you my friend
